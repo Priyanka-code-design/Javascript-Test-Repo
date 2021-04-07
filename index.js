@@ -8,5 +8,4 @@ function getRandomArbitrary(min, max) {
   }
   let x = getRandomArbitrary(2,5);
   console.log(x);
-
-hello world
+console.log('After hi test');
